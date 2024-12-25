@@ -21,18 +21,9 @@ I am enhancing my frontend skills through the **Nómada Bootcamp** while working
 
 ---
 
-## 🌍 Vision
-
-Based in **Cusco, Peru**, I aim to contribute to technological advancements by developing innovative and user-centered solutions.
-
----
-
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aronchoque)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aronjusto)  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@aron_justo)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AronJusto)
-
-
-
 
 ---
 
@@ -44,7 +35,8 @@ Based in **Cusco, Peru**, I aim to contribute to technological advancements by d
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AronJustoC&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>  ![](https://github-readme-streak-stats.herokuapp.com/?user=AronJustoC&theme=catppuccin_mocha&hide_border=false)<br/>  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AronJustoC&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AronJustoC&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>  ![](https://github-readme-streak-stats.herokuapp.com/?user=AronJustoC&theme=catppuccin_mocha&hide_border=false)<br/>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AronJustoC&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
