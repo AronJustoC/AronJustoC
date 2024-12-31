@@ -41,7 +41,7 @@ I am enhancing my frontend skills through the **Nómada Bootcamp** while working
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=AronJustoC&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=AronJustoC&color=blue)
 
 ---
 
