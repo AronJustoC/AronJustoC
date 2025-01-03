@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I’m Aron Justo
 
-I’m a passionate **Frontend Web Developer** specializing in **React**. I thrive on learning and applying modern technologies to solve real-world problems and create impactful digital solutions.
+I’m a passionate **Frontend Web Developer**. I thrive on learning and applying modern technologies to solve real-world problems and create impactful digital solutions.
 
 ---
 
