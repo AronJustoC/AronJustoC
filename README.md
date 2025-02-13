@@ -35,7 +35,6 @@ I am enhancing my frontend skills through the **Nómada Bootcamp** while working
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AronJustoC&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AronJustoC&theme=catppuccin_mocha&hide_border=false)<br/>  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AronJustoC&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
